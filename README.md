@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🧑 I'm currently a PhD student at Monash University, Australia.
-- 🔭 I work on time series analysis forecasting.
+- 🔭 I work on time series analysis and forecasting.
 - 🎓 I am part of Monash NUMBATs.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm fond of travelling 
