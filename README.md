@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🧑 I'm currently a PhD student at Monash University, Australia.
+- 🧑 I'm currently a PhD student at [Monash University, Australia](http://monash.edu).
 - 🔭 I work on time series analysis and forecasting.
-- 🎓 I am part of Monash NUMBATs.
+- 🎓 I am part of [Monash NUMBATs](https://numbat.space/).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm fond of travelling 
 
