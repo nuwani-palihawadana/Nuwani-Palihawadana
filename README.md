@@ -6,11 +6,11 @@
 -   😄 Pronouns: She/Her
 -   ⚡ Fun fact: I am fond of travelling
 
-```{=html}
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-```
+
