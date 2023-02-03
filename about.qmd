@@ -1,9 +1,37 @@
 ---
-title: "About"
+title: "About Me"
+page-layout: full
 ---
 
-About this site
+I am a PhD student at [Monash University, Australia](https://www.monash.edu/business/ebs), supervised by [Professor Rob J. Hyndman](https://robjhyndman.com/), [Dr Christoph Bergmeir](https://cbergmeir.com/), and [Professor Louise M. Ryan](https://profiles.uts.edu.au/Louise.M.Ryan). I am currently working on a project titled "Optimal Predictor Selection for High-dimensional Nonparametric Forecasting".
 
-```{r}
-1 + 1
-```
+::: columns
+::: {.column width="40%"}
+## Research Interests
+
+-   Nonparametric Forecasting
+
+-   High-dimensional Forecasting
+
+-   Time Series Analysis
+
+-   Functional Time Series
+:::
+
+::: {.column width="60%"}
+## Education
+
+##### {{< fa graduation-cap >}} PhD in Statistics (Begun 2021)
+
+###### Monash University, Australia {style="color: gray"}
+
+##### {{< fa graduation-cap >}} BSc. (Hons) Industrial Statistics, 2018
+
+###### University of Colombo, Sri Lanka {style="color: gray"}
+
+##### {{< fa graduation-cap >}} Chartered Institute of Management Accountants (CIMA), 2017
+
+###### Exam Completed Student {style="color: gray"}
+:::
+:::
+

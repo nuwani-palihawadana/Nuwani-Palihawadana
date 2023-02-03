@@ -1,11 +1,25 @@
 ---
-title: "Nuwani Palihawadana"
+page-layout: full
+about:
+  template: trestles
+  image: img/nkp.jpg
+  image-shape: round
+  image-width: 18em
+  links:
+    - icon: envelope
+      text: mail
+      href: mailto:Nuwani.KodikaraPalihawadana@monash.edu
+    - icon: github
+      text: github
+      href: https://github.com/nuwani-palihawadana
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/nuwani-palihawadana/
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+<div class="about-link-text">
+**Nuwani&nbsp;Palihawadana**<br>
+PhD Student in Statistics<br>
+[Department of Econometrics & Business Statistics](https://www.monash.edu/business/ebs)<br>
+[Monash University](https://monash.edu), Australia.
+</div>

@@ -4,10 +4,12 @@ project:
 website:
   title: "Nuwani Palihawadana"
   navbar:
+    background: "#234567"
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: HOME
+      - href: about.qmd
+        text: ABOUT
 
 format:
   html:
