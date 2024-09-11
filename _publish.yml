@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 824c2dd8-1009-4e76-b8e6-dbf9fb955c63
+      url: 'https://joyful-torte-156953.netlify.app'

@@ -3,7 +3,7 @@ title: "About Me"
 page-layout: full
 ---
 
-I am a PhD student at [Monash University, Australia](https://www.monash.edu/business/ebs), supervised by [Professor Rob J. Hyndman](https://robjhyndman.com/), [Dr Christoph Bergmeir](https://cbergmeir.com/), and [Professor Louise M. Ryan](https://profiles.uts.edu.au/Louise.M.Ryan). I am currently working on a project titled "Optimal Predictor Selection for High-dimensional Nonparametric Forecasting".
+I am a PhD student at [Monash University, Australia](https://www.monash.edu/business/ebs), supervised by [Professor Rob J. Hyndman](https://robjhyndman.com/), [Dr Xiaoqian Wang](https://xqnwang.rbind.io/), and [Professor Louise M. Ryan](https://profiles.uts.edu.au/Louise.M.Ryan). I am currently working on a project titled "Optimal Predictor Selection for High-dimensional Nonparametric Forecasting".
 
 ::: columns
 ::: {.column width="40%"}
@@ -34,4 +34,3 @@ I am a PhD student at [Monash University, Australia](https://www.monash.edu/busi
 ###### Exam Completed Student {style="color: gray"}
 :::
 :::
-
