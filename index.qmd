@@ -6,17 +6,17 @@ about:
   image-shape: round
   image-width: 18em
   links:
-    - text: "{{< ai google-scholar >}}"
+    - text: Google Scholar
       href: https://scholar.google.com/citations?user=DAs3EdQAAAAJ&hl=en
-    - icon: envelope
-      text: mail
-      href: mailto:Nuwani.KodikaraPalihawadana@monash.edu
     - icon: github
-      text: github
+      text: Github
       href: https://github.com/nuwani-palihawadana
     - icon: linkedin
-      text: linkedin
+      text: Linkedin
       href: https://www.linkedin.com/in/nuwani-palihawadana/
+    - icon: envelope
+      text: Mail
+      href: mailto:Nuwani.KodikaraPalihawadana@monash.edu
 ---
 
 <div class="about-link-text">
