@@ -1,30 +1,58 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nuwani Palihawadana",
+    "objectID": "packages.html",
+    "href": "packages.html",
+    "title": "Software",
     "section": "",
-    "text": "Nuwani Palihawadana PhD Student in Statistics Department of Econometrics & Business Statistics Monash University, Australia."
+    "text": "R packages I have contributed to:\n\n\nPackageTitleDateVersionsmimodelSparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting2024-09-220.0.1olympicsOlympic data from olympic.com2023-02-280.0.1fpp3Data for \"Forecasting: Principles and Practice\" (3rd Edition)2024-09-181.0.1"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Date: July 01, 2024\nEvent: 44th International Symposium on Forecasting, Dijon, France\nSlides\n\n\n\nDate: June 18, 2024\nEvent: Three Minute Thesis (3MT) Competition 2024, Faculty of Business and Economics, Monash University\nResult: Runner-up (Also competed as a Wildcard in the Monash University 3MT Competition 2024.)\nStatic Slide:  Script: On a scorching summer day, every moment outside feels like a battle against the heat. After running errands, you finally make it home. Rushing into the kitchen, you grab a glass, filled to the brim with icy-cold water, and switch on the AC. But, even before you fully enjoy that cooling breeze, “Click”… the power goes out. In an instant, you are drenched in sweat all over again.\nDoesn’t sound great, right?\nPower cuts can occur due to bad weather, damage to infrastructure, or even regular maintenance. But did you know that electricity regulators sometimes deliberately cut power, simply because they are unprepared to meet the demand? This unpreparedness directly falls on to not having accurate predictions for the future.\nElectricity demand depends on several factors such as prevailing weather conditions, calendar effects, demographics, and even economic factors. Temperature, for example, is obviously related to electricity demand. Not only current temperature, but at least a week of historical temperatures, can influence electricity demand at a given time.\nIn this case, statisticians develop a model combining such current and historical information to produce forecasts. However, feeding all the available information into a model does not produce accurate forecasts. Hence, it is important to determine which information is relevant, and which is not. This is where expert knowledge comes in. As this is very subjective, having a principled and a more objective method is a pressing requirement.\nMy research addresses this problem. I’m developing an optimisation algorithm that automatically identifies the most important information and discards unimportant information without the need for expert knowledge. This algorithm takes all the historical information that we provide as inputs, uses algorithmic reasoning to combine the inputs into groups, and explores the possibly complicated relationships between the past and the future. The result is an optimised model that can produce forecasts with better predictive accuracy.\nNow you might wonder, does this algorithm only solves the electricity demand problem? Not really! I’m developing a general algorithm that you can use in almost any forecasting problem: you may try to forecast mortality, sales, or groundwater level. I got you covered!\nI’ve used this algorithm to forecast mortality and solar intensity. It has shown promising accuracy improvements compared to benchmark methods. Therefore, once completed, my research will be another step forward in statistical forecasting!"
+  },
+  {
+    "objectID": "talks.html#sparse-multiple-index-smi-models-for-high-dimensional-nonaparametric-forecasting",
+    "href": "talks.html#sparse-multiple-index-smi-models-for-high-dimensional-nonaparametric-forecasting",
+    "title": "Talks",
+    "section": "",
+    "text": "Date: July 01, 2024\nEvent: 44th International Symposium on Forecasting, Dijon, France\nSlides"
+  },
+  {
+    "objectID": "talks.html#better-forecasts-through-better-choices-optimal-predictor-selection-for-high-dimensional-nonparametric-forecasting",
+    "href": "talks.html#better-forecasts-through-better-choices-optimal-predictor-selection-for-high-dimensional-nonparametric-forecasting",
+    "title": "Talks",
+    "section": "",
+    "text": "Date: June 18, 2024\nEvent: Three Minute Thesis (3MT) Competition 2024, Faculty of Business and Economics, Monash University\nResult: Runner-up (Also competed as a Wildcard in the Monash University 3MT Competition 2024.)\nStatic Slide:  Script: On a scorching summer day, every moment outside feels like a battle against the heat. After running errands, you finally make it home. Rushing into the kitchen, you grab a glass, filled to the brim with icy-cold water, and switch on the AC. But, even before you fully enjoy that cooling breeze, “Click”… the power goes out. In an instant, you are drenched in sweat all over again.\nDoesn’t sound great, right?\nPower cuts can occur due to bad weather, damage to infrastructure, or even regular maintenance. But did you know that electricity regulators sometimes deliberately cut power, simply because they are unprepared to meet the demand? This unpreparedness directly falls on to not having accurate predictions for the future.\nElectricity demand depends on several factors such as prevailing weather conditions, calendar effects, demographics, and even economic factors. Temperature, for example, is obviously related to electricity demand. Not only current temperature, but at least a week of historical temperatures, can influence electricity demand at a given time.\nIn this case, statisticians develop a model combining such current and historical information to produce forecasts. However, feeding all the available information into a model does not produce accurate forecasts. Hence, it is important to determine which information is relevant, and which is not. This is where expert knowledge comes in. As this is very subjective, having a principled and a more objective method is a pressing requirement.\nMy research addresses this problem. I’m developing an optimisation algorithm that automatically identifies the most important information and discards unimportant information without the need for expert knowledge. This algorithm takes all the historical information that we provide as inputs, uses algorithmic reasoning to combine the inputs into groups, and explores the possibly complicated relationships between the past and the future. The result is an optimised model that can produce forecasts with better predictive accuracy.\nNow you might wonder, does this algorithm only solves the electricity demand problem? Not really! I’m developing a general algorithm that you can use in almost any forecasting problem: you may try to forecast mortality, sales, or groundwater level. I got you covered!\nI’ve used this algorithm to forecast mortality and solar intensity. It has shown promising accuracy improvements compared to benchmark methods. Therefore, once completed, my research will be another step forward in statistical forecasting!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About",
     "section": "",
-    "text": "I am a PhD student at Monash University, Australia, supervised by Professor Rob J. Hyndman, Dr Xiaoqian Wang, and Professor Louise M. Ryan. I am currently working on a project titled “Optimal Predictor Selection for High-dimensional Nonparametric Forecasting”."
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About Me",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nNonparametric Forecasting\nHigh-dimensional Forecasting\nTime Series Analysis\nFunctional Time Series"
+    "text": "I am a Ph.D. candidate in the Department of Econometrics and Business Statistics, Monash University, Australia, supervised by Prof. Rob J. Hyndman, Dr Xiaoqian Wang, and Prof. Louise M. Ryan. I am currently working on a project titled “Optimal Predictor Selection for High-dimensional Nonparametric Forecasting”.\nI am part of Monash NUMBATs, and a research student at OPTIMA and ACEMS.\nMy research focuses on Statistical Forecasting, Classical and Functional Time Series Analysis, and Predictive Modelling. As a passionate novice, I am dedicated to developing open-source software tools that support reproducible research. You can check out my most recent R package here, which is developed to provide functions to estimate Sparse Multiple Index (SMI) Models for nonparametric forecasting, with simultaneous predictor selection and predictor grouping."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "About Me",
-    "section": "Education",
-    "text": "Education\n\n PhD in Statistics (Begun 2021)\n\nMonash University, Australia\n\n\n\n BSc. (Hons) Industrial Statistics, 2018\n\nUniversity of Colombo, Sri Lanka\n\n\n\n Chartered Institute of Management Accountants (CIMA), 2017\n\nExam Completed Student"
+    "title": "About",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n🎓 Ph.D. in Statistics - Reading (Begun 2021), Monash University, Australia\n🎓 B.Sc. (Hons) in Industrial Statistics, 2018, University of Colombo, Sri Lanka\n🎓 Batch top and prestigious CR and Bhargavi Rao Gold Medalist, 2018\n🎓 Chartered Institute of Management Accountants (CIMA) - Exam completed student, 2017"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "🕵️ Research Interests",
+    "text": "🕵️ Research Interests\n\nNonparametric Forecasting\nHigh-dimensional Forecasting\nTime Series Analysis\nFunctional Time Series\nPredictive Modelling"
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "About",
+    "section": "📧 Contact Information",
+    "text": "📧 Contact Information\n\n\n\nDepartment of Econometrics and Business Statistics,\nMonash University,\nClayton VIC 3800,\nAustralia.\n\nEmail: nuwani.kodikarapalihawadana@monash.edu"
   }
 ]

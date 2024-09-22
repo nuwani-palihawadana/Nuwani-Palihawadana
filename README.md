@@ -6,7 +6,6 @@
 -   😄 Pronouns: She/Her
 -   ⚡ Fun fact: I am fond of travelling
 
-
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

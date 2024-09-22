@@ -2,14 +2,53 @@ project:
   type: website
 
 website:
-  title: "Nuwani Palihawadana"
+  title: "NUWANI KODIKARA PALIHAWADANA"
+  
+  favicon: "/images/icon-nkp.png"
+  twitter-card:
+    image: "/images/DSC_0543.png"
+  open-graph:
+    image: "/images/DSC_0543.png"
+    
+    
   navbar:
-    background: "#234567"
+    background: "#0e2f44"  # Example color, replace with your desired color
+    foreground: "#ffffff"  # Example color, replace with your desired color
     left:
-      - href: index.qmd
-        text: HOME
       - href: about.qmd
-        text: ABOUT
+        text: About
+      - href: https://scholar.google.com/citations?user=DAs3EdQAAAAJ&hl=en
+        text: Publications
+      - href: packages.qmd
+        text: Software
+      - href: talks.qmd
+        text: Talks
+    right:
+      - icon: github
+        href: https://github.com/nuwani-palihawadana
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/nuwani-palihawadana/"
+      - text: "{{< iconify academicons google-scholar-square size=24px >}}"
+        href: https://scholar.google.com/citations?user=DAs3EdQAAAAJ&hl=en
+      - icon: "{{< iconify ai orcid>}}"
+        text: ORCID
+        href: "http://orcid.org/0009-0008-6395-7797"
+        
+  page-footer:
+    center:  &copy; Copyright 2024 Nuwani Kodikara Palihawadana. Powered by [Quarto](https://quarto.org/).
+    background: "#0e2f44"
+    
+    right:
+      - icon: github
+        href: https://github.com/nuwani-palihawadana
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/nuwani-palihawadana/"
+      - text: "{{< iconify academicons google-scholar-square size=24px >}}"
+        href: https://scholar.google.com/citations?user=DAs3EdQAAAAJ&hl=en
+      - icon: "{{< iconify ai orcid>}}"
+        text: ORCID
+        href: "http://orcid.org/0009-0008-6395-7797"
+
 
 format:
   html:

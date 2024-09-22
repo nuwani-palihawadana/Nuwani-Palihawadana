@@ -1,0 +1,63 @@
+---
+title: "Software"
+about:
+  template: solana
+---
+
+**R packages I have contributed to:**
+
+```{r}
+#| echo: false
+#| message: false
+
+library(flextable)
+library(officer)
+library(dplyr)
+library(pkgmeta)
+library(lubridate)
+
+# GitHub repositories
+github <- c("nuwani-palihawadana/smimodel", 
+            "robjhyndman/fpp3",
+            "numbats/olympics")
+
+# Get metadata
+cran_github_full <- pkgmeta::get_meta(
+  cran_author = "Nuwani", include_downloads = TRUE,
+  start = as.character(lubridate::ymd(Sys.Date() - 91)),
+  github_repos = github
+) |>
+  as_tibble() |>
+  mutate(hexsticker = paste0("hexstickers/", package, ".png")) |>
+  #filter(is.na(downloads)) |>
+  select(package, hexsticker, title, date, version, url)
+
+# Create a flextable
+ft <- flextable(cran_github_full, cwidth = 2)
+
+# Apply clickable hyperlinks to package column
+ft <- compose(ft, j = "package", value = as_paragraph(as_b(
+  hyperlink_text(x = cran_github_full$package, url = cran_github_full$url, props = fp_text(color = "#376C98", font.size = 12))
+)))
+
+# Remove the url column if not needed
+ft <- delete_columns(ft, j = "url")
+
+# Format hexsticker column to display images
+ft <- colformat_image(ft, j = "hexsticker", width = 1, height = 1.1)
+
+# set labels for specified columns
+ft <- set_header_labels(ft,
+  values = list(
+    package = "Package",
+    hexsticker = "",
+    title = "Title",
+    date = "Date",
+    version = "Version"
+  )
+)
+
+# Print the flextable
+ft
+
+```

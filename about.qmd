@@ -1,13 +1,31 @@
 ---
-title: "About Me"
-page-layout: full
+title: "About"
+about:
+  template: solana
+  image: "images/nkp.jpg"
+  image-width: 20em
+  image-shape: round
 ---
 
-I am a PhD student at [Monash University, Australia](https://www.monash.edu/business/ebs), supervised by [Professor Rob J. Hyndman](https://robjhyndman.com/), [Dr Xiaoqian Wang](https://xqnwang.rbind.io/), and [Professor Louise M. Ryan](https://profiles.uts.edu.au/Louise.M.Ryan). I am currently working on a project titled "Optimal Predictor Selection for High-dimensional Nonparametric Forecasting".
+I am a Ph.D. candidate in the [Department of Econometrics and Business Statistics, Monash University, Australia](https://www.monash.edu/business/research/our-researchers/graduate-research-students-and-supervisors?queries_degree_query=Econometrics+and+Business+Statistics&queries_degree_query_posted=1&result_1619149_result_page=3), supervised by [Prof. Rob J. Hyndman](https://robjhyndman.com/), [Dr Xiaoqian Wang](https://xqnwang.rbind.io/), and [Prof. Louise M. Ryan](https://profiles.uts.edu.au/Louise.M.Ryan). I am currently working on a project titled *"Optimal Predictor Selection for High-dimensional Nonparametric Forecasting"*.
 
-::: columns
-::: {.column width="40%"}
-## Research Interests
+I am part of [Monash NUMBATs](https://numbat.space/), and a research student at [OPTIMA](https://optima.org.au/) and [ACEMS](https://acems.org.au/our-people/nuwani-palihawadana).
+
+My research focuses on Statistical Forecasting, Classical and Functional Time Series Analysis, and Predictive Modelling. As a passionate novice, I am dedicated to developing open-source software tools that support reproducible research. You can check out my most recent R package [here](https://github.com/nuwani-palihawadana/smimodel), which is developed to provide functions to estimate Sparse Multiple Index (SMI) Models for nonparametric forecasting, with simultaneous predictor selection and predictor grouping.
+
+
+## 🎓 Education
+
+🎓 Ph.D. in Statistics - Reading (Begun 2021), Monash University, Australia
+
+🎓 B.Sc. (Hons) in Industrial Statistics, 2018, University of Colombo, Sri Lanka
+
+🎓 Batch top and prestigious CR and Bhargavi Rao Gold Medalist, 2018
+
+🎓 Chartered Institute of Management Accountants (CIMA) - Exam completed student, 2017
+
+
+## 🕵️ Research Interests
 
 -   Nonparametric Forecasting
 
@@ -16,21 +34,24 @@ I am a PhD student at [Monash University, Australia](https://www.monash.edu/busi
 -   Time Series Analysis
 
 -   Functional Time Series
-:::
 
-::: {.column width="60%"}
-## Education
+-   Predictive Modelling
 
-##### {{< fa graduation-cap >}} PhD in Statistics (Begun 2021)
 
-###### Monash University, Australia {style="color: gray"}
+## 📧 Contact Information
 
-##### {{< fa graduation-cap >}} BSc. (Hons) Industrial Statistics, 2018
+::: {.grid style="row-gap: 1em;"}
+::: {.g-col-12 .g-col-md-10}
+<p class="mb-0">
 
-###### University of Colombo, Sri Lanka {style="color: gray"}
+Department of Econometrics and Business Statistics,\
+Monash University,\
+Clayton VIC 3800,\
+Australia.
 
-##### {{< fa graduation-cap >}} Chartered Institute of Management Accountants (CIMA), 2017
+\
+Email: nuwani.kodikarapalihawadana\@monash.edu
 
-###### Exam Completed Student {style="color: gray"}
+</p>
 :::
 :::

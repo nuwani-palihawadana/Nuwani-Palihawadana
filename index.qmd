@@ -1,27 +1,11 @@
 ---
-page-layout: full
+title: "NUWANI KODIKARA PALIHAWADANA"
+css: index.css
+subtitle: |
+ Ph.D. Candidate, Monash University, Australia\
 about:
-  template: trestles
-  image: img/nkp.jpg
+  template: solana
+  image: "images/nkp.jpg"
+  image-width: 30em
   image-shape: round
-  image-width: 18em
-  links:
-    - text: Google Scholar
-      href: https://scholar.google.com/citations?user=DAs3EdQAAAAJ&hl=en
-    - icon: github
-      text: Github
-      href: https://github.com/nuwani-palihawadana
-    - icon: linkedin
-      text: Linkedin
-      href: https://www.linkedin.com/in/nuwani-palihawadana/
-    - icon: envelope
-      text: Mail
-      href: mailto:Nuwani.KodikaraPalihawadana@monash.edu
 ---
-
-<div class="about-link-text">
-**Nuwani&nbsp;Palihawadana**<br>
-PhD Student in Statistics<br>
-[Department of Econometrics & Business Statistics](https://www.monash.edu/business/ebs)<br>
-[Monash University](https://monash.edu), Australia.
-</div>
