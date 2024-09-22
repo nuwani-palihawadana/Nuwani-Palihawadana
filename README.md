@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--   🧑 I am currently a PhD student at [Monash University, Australia](http://monash.edu).
+-   🧑 I am currently a Ph.D. student at [Monash University, Australia](http://monash.edu).
 -   🔭 I work on forecasting and time series analysis.
 -   🎓 I am part of [Monash NUMBATs](https://numbat.space/).
 -   😄 Pronouns: She/Her
@@ -12,4 +12,3 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-
