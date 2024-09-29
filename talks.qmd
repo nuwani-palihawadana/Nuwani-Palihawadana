@@ -6,7 +6,16 @@ about:
 
 # 2024
 
-## **Sparse Multiple Index (SMI) Models for High-dimensional Nonaparametric Forecasting**
+## **Optimal Predictor Selection for High-dimensional Nonparametric Forecasting**
+
+**Date:** September 26, 2024
+
+**Event:** [NUMBAT Group Meeting](https://numbat.space/events.html)
+
+[Slides](https://github.com/nuwani-palihawadana/NUMBAT-2024-talk)
+
+
+## **Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting**
 
 **Date:** July 01, 2024
 
@@ -15,7 +24,7 @@ about:
 [Slides](https://github.com/nuwani-palihawadana/ISF2024-smimodel-talk)
 
 
-## ***Better Forecasts through Better Choices:*** **Optimal predictor selection for high-dimensional nonparametric forecasting**
+## ***Better Forecasts through Better Choices:*** **Optimal Predictor Selection for High-dimensional Nonparametric Forecasting**
 
 **Date:** June 18, 2024
 
@@ -23,18 +32,15 @@ about:
 
 **Result:** Runner-up (Also competed as a Wildcard in the Monash University 3MT Competition 2024.)
 
-**Static Slide:**
-![](images/3MT.png){fig-align="center"}
-**Script:**
-On a scorching summer day, every moment outside feels like a battle against the heat. After running errands, you finally make it home. Rushing into the kitchen, you grab a glass, filled to the brim with icy-cold water, and switch on the AC. But, even before you fully enjoy that cooling breeze, “Click”… the power goes out. In an instant, you are drenched in sweat all over again.
+**Static Slide:** ![](images/3MT.png){fig-align="center"} **Script:** On a scorching summer day, every moment outside feels like a battle against the heat. After running errands, you finally make it home. Rushing into the kitchen, you grab a glass, filled to the brim with icy-cold water, and switch on the AC. But, even before you fully enjoy that cooling breeze, “Click”… the power goes out. In an instant, you are drenched in sweat all over again.
 
 Doesn’t sound great, right?
 
 Power cuts can occur due to bad weather, damage to infrastructure, or even regular maintenance. But did you know that electricity regulators sometimes deliberately cut power, simply because they are unprepared to meet the demand? This unpreparedness directly falls on to not having accurate predictions for the future.
 
-Electricity demand depends on several factors such as prevailing weather conditions, calendar effects, demographics, and even economic factors. Temperature, for example, is obviously related to electricity demand. Not only current temperature, but at least a week of historical temperatures, can influence electricity demand at a given time. 
+Electricity demand depends on several factors such as prevailing weather conditions, calendar effects, demographics, and even economic factors. Temperature, for example, is obviously related to electricity demand. Not only current temperature, but at least a week of historical temperatures, can influence electricity demand at a given time.
 
-In this case, statisticians develop a model combining such current and historical information to produce forecasts. However, feeding all the available information into a model does not produce accurate forecasts.  Hence, it is important to determine which information is relevant, and which is not. This is where expert knowledge comes in. As this is very subjective, having a principled and a more objective method is a pressing requirement.
+In this case, statisticians develop a model combining such current and historical information to produce forecasts. However, feeding all the available information into a model does not produce accurate forecasts. Hence, it is important to determine which information is relevant, and which is not. This is where expert knowledge comes in. As this is very subjective, having a principled and a more objective method is a pressing requirement.
 
 My research addresses this problem. I’m developing an optimisation algorithm that automatically identifies the most important information and discards unimportant information without the need for expert knowledge. This algorithm takes all the historical information that we provide as inputs, uses algorithmic reasoning to combine the inputs into groups, and explores the possibly complicated relationships between the past and the future. The result is an optimised model that can produce forecasts with better predictive accuracy.
 
