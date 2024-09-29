@@ -1,0 +1,38 @@
+---
+title: "Teaching"
+about:
+  template: solana
+---
+
+## Teaching Associate, Monash University, Australia
+
+### 2023
+
+-   ETC3400 Principles of Econometrics [(Handbook Entry)](https://handbook.monash.edu/2023/units/ETC3400?year=2023)
+    -   Conducted tutorial sessions
+
+### 2022
+
+-   ETC3400 Principles of Econometrics [(Handbook Entry)](https://handbook.monash.edu/2022/units/ETC3400?year=2022)
+    -   Conducted tutorial sessions
+
+## Temporary Assistant Lecturer, Department of Statistics, Faculty of Science, University of Colombo, Sri Lanka
+
+### February 2019 - February 2021
+
+-   MS 3009 Operational Research II
+    -   Conducted lectures, set exam paper
+-   ST 2007 Applications in Statistical Inference
+    -   Conducted lectures, set assignments
+-   IS 1006 Fundamentals in Statistics
+    -   Conducted practical sessions
+-   SCS 2211 Laboratory II (Statistical Methods using R)
+    -   Conducted lectures
+-   ST 1012 Basic Statistical Computing
+    -   Conducted practical sessions
+-   IS 3053 Data Mining
+    -   Teaching Assistant
+-   ST 2008 Statistical Methods in Quality Control
+    -   Conducted lectures, set exam paper
+-   MS 2001 Statistical Quality Control
+    -   Conducted lectures, set exam paper

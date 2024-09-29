@@ -14,7 +14,6 @@ about:
 
 [Slides](https://github.com/nuwani-palihawadana/NUMBAT-2024-talk)
 
-
 ## **Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting**
 
 **Date:** July 01, 2024
@@ -22,7 +21,6 @@ about:
 **Event:** [44th International Symposium on Forecasting, Dijon, France](https://forecasters.org/events/symposium-on-forecasting/)
 
 [Slides](https://github.com/nuwani-palihawadana/ISF2024-smimodel-talk)
-
 
 ## ***Better Forecasts through Better Choices:*** **Optimal Predictor Selection for High-dimensional Nonparametric Forecasting**
 

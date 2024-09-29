@@ -23,6 +23,8 @@ website:
         text: Software
       - href: talks.qmd
         text: Talks
+      - href: teaching.qmd
+        text: Teaching
     right:
       - icon: github
         href: https://github.com/nuwani-palihawadana
