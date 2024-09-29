@@ -1,0 +1,135 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+  pdf:
+    author: Nuwani Kodikara Palihawadana
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+::: {.print-only .contact-block}
+nuwanipalihawadana.netlify.app\
+nuwani.kodikarapalihawadana\@monash.edu\
+in/nuwani-palihawadana\
+github.com/nuwani-palihawadana
+:::
+
+## EDUCATION
+
+**Doctor of Philosophy -- Statistics** <br> *Monash University, Australia* [*March 2021 --- Present*]{.cvdate}
+
+-   Project: *Optimal Predictor Selection for High-dimensional Nonparametric Forecasting*
+-   Scholarships:
+    -   Co-funded Monash Graduate Scholarship
+    -   Monash Business School Co-funded Graduate Research Scholarship
+-   Expected submission date: February 2025
+
+**Bachelor of Science (Honours) -- Industrial Statistics**<br> *University of Colombo, Sri Lanka* [*Feb 2016 --- Dec 2018*]{.cvdate}
+
+-   Graduated with First Class Honours (GPA – 3.95/4.00 (Batch Top))
+-   Research: *Generalising Vector Autoregressive (VAR) Model for Functional Time Series*
+    -   Mathematically extending classical VAR model for Functional Time Series, by developing the statistical theory of Functional Vector Autoregressive (FVAR) Model of order one
+    -   Demonstrating the practical application of the newly extended model using a real data set
+
+**Chartered Institute of Management Accountants (CIMA), UK - Exam completed student** [*2017*]{.cvdate}
+
+**General Certificate of Education - Advanced Level** <br> *St.Paul's Girls' School, Milagiriya, Sri Lanka* [*2011 --- 2013*]{.cvdate}
+
+-   University Entrance Score (z-score): 1.65
+
+
+## AWARDS
+
+**Monash University, Australia** [2021]{.cvdate}
+
+-   Monash Business School Student Excellence Award for BEX6510 Foundations of Econometrics
+
+**Sri Lanka Association for the Advancement of Science (SLAAS)** [2019]{.cvdate}
+
+-   Physical Science Award – Statistics
+
+**University of Colombo, Sri Lanka** [2018]{.cvdate}
+
+-   CR and Bhargavi Rao Gold Medal for Statistics
+-   Gold Medal for Industrial Statistics
+-   Gold Medal for the Best Final Year Research Project in Industrial Statistics
+-   Joseph Nalliah Arumugam Memorial Award
+
+**St.Paul's Girls' School, Milagiriya, Sri Lanka** [2013]{.cvdate}
+
+-   Award for the Best All Rounder
+
+
+## PUBLICATIONS
+
+### Unpublished Working Papers
+
+-   Palihawadana, NK, RJ Hyndman, and X Wang (2024). Sparse Multiple Index Models for High-dimensional Nonparametric Forecasting. Working paper 16/24. Department of Econometrics & Business Statistics, Monash University. https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp16-2024.pdf.
+
+
+## SOFTWARE (R PACKAGES)
+
+-   Palihawadana, NK, RJ Hyndman, and X Wang (2024). smimodel: Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting. Version 0.0.1. https://github.com/nuwani-palihawadana/smimodel.
+
+-   Hyndman, RJ, G Athanasopoulos, M O’Hara-Wild, N Palihawadana, S Wickramasuriya, and RStudio (2024). fpp3: Data for "Forecasting: Principles and Practice" (3rd Edition). Version 1.0.0. https://pkg.robjhyndman.com/fpp3package/.
+
+-   Zhang H, X Wang, N Palihawadana, and J Lakshika (2023). olympics: Olympic data from olympic.com. Version 0.0.1. https://numbats.github.io/olympics/index.html.
+
+
+## TEACHING EXPERIENCE
+
+### Teaching Associate
+
+**Monash University, Australia** [2022 -- 2023]{.cvdate}
+
+-   *ETC3400 Principles of Econometrics* -- Conducted tutorial sessions
+
+
+### Temporary Assistant Lecturer
+
+**Department of Statistics, Faculty of Science, University of Colombo, Sri Lanka** [Feb 2019 -- Feb 2021]{.cvdate}
+
+-   *MS 3009 Operational Research II* -- Conducted lectures, set exam paper
+-   ST 2007 Applications in Statistical Inference -- Conducted lectures, set assignments
+-   *IS 1006 Fundamentals in Statistics* -- Conducted practical sessions
+-   *SCS 2211 Laboratory II (Statistical Methods using R)* -- Conducted lectures
+-   *ST 1012 Basic Statistical Computing* -- Conducted practical sessions
+-   *IS 3053 Data Mining* -- Teaching Assistant
+-   *ST 2008 Statistical Methods in Quality Control* -- Conducted lectures, set exam paper
+-   *MS 2001 Statistical Quality Control* -- Conducted lectures, set exam paper
+
+
+## OTHER WORK EXPERIENCE
+
+### Research Assistant
+
+**Department of Econometrics and Business Statistics, Monash University, Australia** [June 2022 -- Present]{.cvdate}
+
+Data pre-processing and wrangling, report editing.\
+Supervisors: Associate Professor Bonsoo Koo, Professor Rob J. Hyndman
+
+
+### Intern – Analyst
+
+**MAS Pixel of MAS Capital (Pvt) Ltd., MAS Holdings, Sri Lanka** [Aug 2018 -- Feb 2019]{.cvdate}
+
+Data mapping, data collection, data wrangling, business insight generation through data visualisation, predictive modelling.
+
+
+## LEADERSHIP AND COMMUNITY OUTREACH
+
+-   Vice-captain of the Table Tennis (Women’s) Team, University of Colombo, Sri Lanka [2018]{.cvdate}
+
+-   Assistant Secretary, Students’ Association for Industrial and Financial Analysis (SAIFA), University of Colombo, Sri Lanka [2016]{.cvdate}
+
+-   Head Prefect, St. Paul’s Girls’ School, Milagiriya, Colombo 05, Sri Lanka [2012]{.cvdate}
+
+
+::: print-only
+## References
+
+Available upon request
+:::

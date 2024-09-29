@@ -25,6 +25,8 @@ website:
         text: Talks
       - href: teaching.qmd
         text: Teaching
+      - href: cv.qmd
+        text: CV
     right:
       - icon: github
         href: https://github.com/nuwani-palihawadana

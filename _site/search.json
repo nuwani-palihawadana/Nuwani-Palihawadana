@@ -7,25 +7,32 @@
     "text": "R packages I have contributed to:\n\n\nPackageTitleDateVersionsmimodelSparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting2024-09-220.0.1olympicsOlympic data from olympic.com2023-02-280.0.1fpp3Data for \"Forecasting: Principles and Practice\" (3rd Edition)2024-09-181.0.1"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "ETC3400 Principles of Econometrics (Handbook Entry)\n\nConducted tutorial sessions\n\n\n\n\n\n\nETC3400 Principles of Econometrics (Handbook Entry)\n\nConducted tutorial sessions"
+    "text": "I am a Ph.D. candidate in the Department of Econometrics and Business Statistics, Monash University, Australia, supervised by Prof. Rob J. Hyndman, Dr Xiaoqian Wang, and Prof. Louise M. Ryan. I am currently working on a project titled “Optimal Predictor Selection for High-dimensional Nonparametric Forecasting”.\nI am part of Monash NUMBATs, and a research student at OPTIMA and ACEMS.\nMy research focuses on Statistical Forecasting, Classical and Functional Time Series Analysis, and Predictive Modelling. As a passionate novice, I am dedicated to developing open-source software tools that support reproducible research. You can check out my most recent R package here, which is developed to provide functions to estimate Sparse Multiple Index (SMI) Models for nonparametric forecasting, with simultaneous predictor selection and predictor grouping."
   },
   {
-    "objectID": "teaching.html#teaching-associate-monash-university-australia",
-    "href": "teaching.html#teaching-associate-monash-university-australia",
-    "title": "Teaching",
-    "section": "",
-    "text": "ETC3400 Principles of Econometrics (Handbook Entry)\n\nConducted tutorial sessions\n\n\n\n\n\n\nETC3400 Principles of Econometrics (Handbook Entry)\n\nConducted tutorial sessions"
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n🎓 Ph.D. in Statistics - Reading (Begun 2021), Monash University, Australia\n\nMonash Business School Student Excellence Award for BEX6510 Foundations of Econometrics, 2021\n\n🎓 B.Sc. (Hons) in Industrial Statistics, 2018, University of Colombo, Sri Lanka\n\nBatch top and Gold Medalist\n\nCR and Bhargavi Rao Gold Medal for Statistics\nGold Medal for Industrial Statistics\nGold Medal for the Best Final Year Research Project in Industrial Statistics\nJoseph Nalliah Arumugam Memorial Award\n\n\n🎓 Chartered Institute of Management Accountants (CIMA), UK - Exam completed student, 2017"
   },
   {
-    "objectID": "teaching.html#temporary-assistant-lecturer-department-of-statistics-faculty-of-science-university-of-colombo-sri-lanka",
-    "href": "teaching.html#temporary-assistant-lecturer-department-of-statistics-faculty-of-science-university-of-colombo-sri-lanka",
-    "title": "Teaching",
-    "section": "Temporary Assistant Lecturer, Department of Statistics, Faculty of Science, University of Colombo, Sri Lanka",
-    "text": "Temporary Assistant Lecturer, Department of Statistics, Faculty of Science, University of Colombo, Sri Lanka\n\nFebruary 2019 - February 2021\n\nMS 3009 Operational Research II\n\nConducted lectures, set exam paper\n\nST 2007 Applications in Statistical Inference\n\nConducted lectures, set assignments\n\nIS 1006 Fundamentals in Statistics\n\nConducted practical sessions\n\nSCS 2211 Laboratory II (Statistical Methods using R)\n\nConducted lectures\n\nST 1012 Basic Statistical Computing\n\nConducted practical sessions\n\nIS 3053 Data Mining\n\nTeaching Assistant\n\nST 2008 Statistical Methods in Quality Control\n\nConducted lectures, set exam paper\n\nMS 2001 Statistical Quality Control\n\nConducted lectures, set exam paper"
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "🕵️ Research Interests",
+    "text": "🕵️ Research Interests\n\nNonparametric Forecasting\nHigh-dimensional Forecasting\nTime Series Analysis\nFunctional Time Series\nPredictive Modelling"
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "About",
+    "section": "📧 Contact Information",
+    "text": "📧 Contact Information\n\n\n\nDepartment of Econometrics and Business Statistics,\nMonash University,\nClayton VIC 3800,\nAustralia.\n\nEmail: nuwani.kodikarapalihawadana@monash.edu"
   },
   {
     "objectID": "talks.html",
@@ -56,31 +63,87 @@
     "text": "Date: June 18, 2024\nEvent: Three Minute Thesis (3MT) Competition 2024, Faculty of Business and Economics, Monash University\nResult: Runner-up (Also competed as a Wildcard in the Monash University 3MT Competition 2024.)\nStatic Slide:  Script: On a scorching summer day, every moment outside feels like a battle against the heat. After running errands, you finally make it home. Rushing into the kitchen, you grab a glass, filled to the brim with icy-cold water, and switch on the AC. But, even before you fully enjoy that cooling breeze, “Click”… the power goes out. In an instant, you are drenched in sweat all over again.\nDoesn’t sound great, right?\nPower cuts can occur due to bad weather, damage to infrastructure, or even regular maintenance. But did you know that electricity regulators sometimes deliberately cut power, simply because they are unprepared to meet the demand? This unpreparedness directly falls on to not having accurate predictions for the future.\nElectricity demand depends on several factors such as prevailing weather conditions, calendar effects, demographics, and even economic factors. Temperature, for example, is obviously related to electricity demand. Not only current temperature, but at least a week of historical temperatures, can influence electricity demand at a given time.\nIn this case, statisticians develop a model combining such current and historical information to produce forecasts. However, feeding all the available information into a model does not produce accurate forecasts. Hence, it is important to determine which information is relevant, and which is not. This is where expert knowledge comes in. As this is very subjective, having a principled and a more objective method is a pressing requirement.\nMy research addresses this problem. I’m developing an optimisation algorithm that automatically identifies the most important information and discards unimportant information without the need for expert knowledge. This algorithm takes all the historical information that we provide as inputs, uses algorithmic reasoning to combine the inputs into groups, and explores the possibly complicated relationships between the past and the future. The result is an optimised model that can produce forecasts with better predictive accuracy.\nNow you might wonder, does this algorithm only solves the electricity demand problem? Not really! I’m developing a general algorithm that you can use in almost any forecasting problem: you may try to forecast mortality, sales, or groundwater level. I got you covered!\nI’ve used this algorithm to forecast mortality and solar intensity. It has shown promising accuracy improvements compared to benchmark methods. Therefore, once completed, my research will be another step forward in statistical forecasting!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "I am a Ph.D. candidate in the Department of Econometrics and Business Statistics, Monash University, Australia, supervised by Prof. Rob J. Hyndman, Dr Xiaoqian Wang, and Prof. Louise M. Ryan. I am currently working on a project titled “Optimal Predictor Selection for High-dimensional Nonparametric Forecasting”.\nI am part of Monash NUMBATs, and a research student at OPTIMA and ACEMS.\nMy research focuses on Statistical Forecasting, Classical and Functional Time Series Analysis, and Predictive Modelling. As a passionate novice, I am dedicated to developing open-source software tools that support reproducible research. You can check out my most recent R package here, which is developed to provide functions to estimate Sparse Multiple Index (SMI) Models for nonparametric forecasting, with simultaneous predictor selection and predictor grouping."
+    "text": "ETC3400 Principles of Econometrics (Handbook Entry)\n\nConducted tutorial sessions\n\n\n\n\n\n\nETC3400 Principles of Econometrics (Handbook Entry)\n\nConducted tutorial sessions"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "🎓 Education",
-    "text": "🎓 Education\n🎓 Ph.D. in Statistics - Reading (Begun 2021), Monash University, Australia\n\nMonash Business School Student Excellence Award for BEX6510 Foundations of Econometrics, 2021\n\n🎓 B.Sc. (Hons) in Industrial Statistics, 2018, University of Colombo, Sri Lanka\n\nBatch top and Gold Medalist\n\nCR and Bhargavi Rao Gold Medal for Statistics\nGold Medal for Industrial Statistics\nGold Medal for the Best Final Year Research Project in Industrial Statistics\nJoseph Nalliah Arumugam Memorial Award\n\n\n🎓 Chartered Institute of Management Accountants (CIMA) - Exam completed student, 2017"
+    "objectID": "teaching.html#teaching-associate-monash-university-australia",
+    "href": "teaching.html#teaching-associate-monash-university-australia",
+    "title": "Teaching",
+    "section": "",
+    "text": "ETC3400 Principles of Econometrics (Handbook Entry)\n\nConducted tutorial sessions\n\n\n\n\n\n\nETC3400 Principles of Econometrics (Handbook Entry)\n\nConducted tutorial sessions"
   },
   {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About",
-    "section": "🕵️ Research Interests",
-    "text": "🕵️ Research Interests\n\nNonparametric Forecasting\nHigh-dimensional Forecasting\nTime Series Analysis\nFunctional Time Series\nPredictive Modelling"
+    "objectID": "teaching.html#temporary-assistant-lecturer-department-of-statistics-faculty-of-science-university-of-colombo-sri-lanka",
+    "href": "teaching.html#temporary-assistant-lecturer-department-of-statistics-faculty-of-science-university-of-colombo-sri-lanka",
+    "title": "Teaching",
+    "section": "Temporary Assistant Lecturer, Department of Statistics, Faculty of Science, University of Colombo, Sri Lanka",
+    "text": "Temporary Assistant Lecturer, Department of Statistics, Faculty of Science, University of Colombo, Sri Lanka\n\nFeb 2019 - Feb 2021\n\nMS 3009 Operational Research II\n\nConducted lectures, set exam paper\n\nST 2007 Applications in Statistical Inference\n\nConducted lectures, set assignments\n\nIS 1006 Fundamentals in Statistics\n\nConducted practical sessions\n\nSCS 2211 Laboratory II (Statistical Methods using R)\n\nConducted lectures\n\nST 1012 Basic Statistical Computing\n\nConducted practical sessions\n\nIS 3053 Data Mining\n\nTeaching Assistant\n\nST 2008 Statistical Methods in Quality Control\n\nConducted lectures, set exam paper\n\nMS 2001 Statistical Quality Control\n\nConducted lectures, set exam paper"
   },
   {
-    "objectID": "about.html#contact-information",
-    "href": "about.html#contact-information",
-    "title": "About",
-    "section": "📧 Contact Information",
-    "text": "📧 Contact Information\n\n\n\nDepartment of Econometrics and Business Statistics,\nMonash University,\nClayton VIC 3800,\nAustralia.\n\nEmail: nuwani.kodikarapalihawadana@monash.edu"
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "nuwanipalihawadana.netlify.app\nnuwani.kodikarapalihawadana@monash.edu\nin/nuwani-palihawadana\ngithub.com/nuwani-palihawadana"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nDoctor of Philosophy – Statistics  Monash University, Australia March 2021 — Present\n\nProject: Optimal Predictor Selection for High-dimensional Nonparametric Forecasting\nScholarships:\n\nCo-funded Monash Graduate Scholarship\nMonash Business School Co-funded Graduate Research Scholarship\n\nExpected submission date: February 2025\n\nBachelor of Science (Honours) – Industrial Statistics University of Colombo, Sri Lanka Feb 2016 — Dec 2018\n\nGraduated with First Class Honours (GPA – 3.95/4.00 (Batch Top))\nResearch: Generalising Vector Autoregressive (VAR) Model for Functional Time Series\n\nMathematically extending classical VAR model for Functional Time Series, by developing the statistical theory of Functional Vector Autoregressive (FVAR) Model of order one\nDemonstrating the practical application of the newly extended model using a real data set\n\n\nChartered Institute of Management Accountants (CIMA), UK - Exam completed student 2017\nGeneral Certificate of Education - Advanced Level  St.Paul’s Girls’ School, Milagiriya, Sri Lanka 2011 — 2013\n\nUniversity Entrance Score (z-score): 1.65"
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "Curriculum Vitae",
+    "section": "AWARDS",
+    "text": "AWARDS\nMonash University, Australia 2021\n\nMonash Business School Student Excellence Award for BEX6510 Foundations of Econometrics\n\nSri Lanka Association for the Advancement of Science (SLAAS) 2019\n\nPhysical Science Award – Statistics\n\nUniversity of Colombo, Sri Lanka 2018\n\nCR and Bhargavi Rao Gold Medal for Statistics\nGold Medal for Industrial Statistics\nGold Medal for the Best Final Year Research Project in Industrial Statistics\nJoseph Nalliah Arumugam Memorial Award\n\nSt.Paul’s Girls’ School, Milagiriya, Sri Lanka 2013\n\nAward for the Best All Rounder"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "PUBLICATIONS",
+    "text": "PUBLICATIONS\n\nUnpublished Working Papers\n\nPalihawadana, NK, RJ Hyndman, and X Wang (2024). Sparse Multiple Index Models for High-dimensional Nonparametric Forecasting. Working paper 16/24. Department of Econometrics & Business Statistics, Monash University. https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp16-2024.pdf."
+  },
+  {
+    "objectID": "cv.html#software-r-packages",
+    "href": "cv.html#software-r-packages",
+    "title": "Curriculum Vitae",
+    "section": "SOFTWARE (R PACKAGES)",
+    "text": "SOFTWARE (R PACKAGES)\n\nPalihawadana, NK, RJ Hyndman, and X Wang (2024). smimodel: Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting. Version 0.0.1. https://github.com/nuwani-palihawadana/smimodel.\nHyndman, RJ, G Athanasopoulos, M O’Hara-Wild, N Palihawadana, S Wickramasuriya, and RStudio (2024). fpp3: Data for “Forecasting: Principles and Practice” (3rd Edition). Version 1.0.0. https://pkg.robjhyndman.com/fpp3package/.\nZhang H, X Wang, N Palihawadana, and J Lakshika (2023). olympics: Olympic data from olympic.com. Version 0.0.1. https://numbats.github.io/olympics/index.html."
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "TEACHING EXPERIENCE",
+    "text": "TEACHING EXPERIENCE\n\nTeaching Associate\nMonash University, Australia 2022 – 2023\n\nETC3400 Principles of Econometrics – Conducted tutorial sessions\n\n\n\nTemporary Assistant Lecturer\nDepartment of Statistics, Faculty of Science, University of Colombo, Sri Lanka Feb 2019 – Feb 2021\n\nMS 3009 Operational Research II – Conducted lectures, set exam paper\nST 2007 Applications in Statistical Inference – Conducted lectures, set assignments\nIS 1006 Fundamentals in Statistics – Conducted practical sessions\nSCS 2211 Laboratory II (Statistical Methods using R) – Conducted lectures\nST 1012 Basic Statistical Computing – Conducted practical sessions\nIS 3053 Data Mining – Teaching Assistant\nST 2008 Statistical Methods in Quality Control – Conducted lectures, set exam paper\nMS 2001 Statistical Quality Control – Conducted lectures, set exam paper"
+  },
+  {
+    "objectID": "cv.html#other-work-experience",
+    "href": "cv.html#other-work-experience",
+    "title": "Curriculum Vitae",
+    "section": "OTHER WORK EXPERIENCE",
+    "text": "OTHER WORK EXPERIENCE\n\nResearch Assistant\nDepartment of Econometrics and Business Statistics, Monash University, Australia June 2022 – Present\nData pre-processing and wrangling, report editing.\nSupervisors: Associate Professor Bonsoo Koo, Professor Rob J. Hyndman\n\n\nIntern – Analyst\nMAS Pixel of MAS Capital (Pvt) Ltd., MAS Holdings, Sri Lanka Aug 2018 – Feb 2019\nData mapping, data collection, data wrangling, business insight generation through data visualisation, predictive modelling."
+  },
+  {
+    "objectID": "cv.html#leadership-and-community-outreach",
+    "href": "cv.html#leadership-and-community-outreach",
+    "title": "Curriculum Vitae",
+    "section": "LEADERSHIP AND COMMUNITY OUTREACH",
+    "text": "LEADERSHIP AND COMMUNITY OUTREACH\n\nVice-captain of the Table Tennis (Women’s) Team, University of Colombo, Sri Lanka 2018\nAssistant Secretary, Students’ Association for Industrial and Financial Analysis (SAIFA), University of Colombo, Sri Lanka 2016\nHead Prefect, St. Paul’s Girls’ School, Milagiriya, Colombo 05, Sri Lanka 2012"
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable upon request"
   }
 ]
