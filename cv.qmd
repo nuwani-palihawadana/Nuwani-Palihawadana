@@ -72,7 +72,7 @@ github.com/nuwani-palihawadana
 
 ## SOFTWARE (R PACKAGES)
 
--   Palihawadana, NK, RJ Hyndman, and X Wang (2024). smimodel: Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting. Version 0.0.1. https://github.com/nuwani-palihawadana/smimodel.
+-   Palihawadana, N, and X Wang (2024). smimodel: Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting. Version 0.0.1. https://github.com/nuwani-palihawadana/smimodel.
 
 -   Hyndman, RJ, G Athanasopoulos, M O’Hara-Wild, N Palihawadana, S Wickramasuriya, and RStudio (2024). fpp3: Data for "Forecasting: Principles and Practice" (3rd Edition). Version 1.0.0. https://pkg.robjhyndman.com/fpp3package/.
 

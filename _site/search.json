@@ -116,7 +116,7 @@
     "href": "cv.html#software-r-packages",
     "title": "Curriculum Vitae",
     "section": "SOFTWARE (R PACKAGES)",
-    "text": "SOFTWARE (R PACKAGES)\n\nPalihawadana, NK, RJ Hyndman, and X Wang (2024). smimodel: Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting. Version 0.0.1. https://github.com/nuwani-palihawadana/smimodel.\nHyndman, RJ, G Athanasopoulos, M O’Hara-Wild, N Palihawadana, S Wickramasuriya, and RStudio (2024). fpp3: Data for “Forecasting: Principles and Practice” (3rd Edition). Version 1.0.0. https://pkg.robjhyndman.com/fpp3package/.\nZhang H, X Wang, N Palihawadana, and J Lakshika (2023). olympics: Olympic data from olympic.com. Version 0.0.1. https://numbats.github.io/olympics/index.html."
+    "text": "SOFTWARE (R PACKAGES)\n\nPalihawadana, N, and X Wang (2024). smimodel: Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting. Version 0.0.1. https://github.com/nuwani-palihawadana/smimodel.\nHyndman, RJ, G Athanasopoulos, M O’Hara-Wild, N Palihawadana, S Wickramasuriya, and RStudio (2024). fpp3: Data for “Forecasting: Principles and Practice” (3rd Edition). Version 1.0.0. https://pkg.robjhyndman.com/fpp3package/.\nZhang H, X Wang, N Palihawadana, and J Lakshika (2023). olympics: Olympic data from olympic.com. Version 0.0.1. https://numbats.github.io/olympics/index.html."
   },
   {
     "objectID": "cv.html#teaching-experience",
