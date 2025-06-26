@@ -6,6 +6,11 @@ about:
 
 ## Teaching Associate, Monash University, Australia
 
+### 2025
+
+-   ETC3550/ETC5550 Applied Forecasting [(Handbook Entry)](https://handbook.monash.edu/2025/units/ETC3550)
+    -   Conducted tutorial sessions
+
 ### 2023
 
 -   ETC3400 Principles of Econometrics [(Handbook Entry)](https://handbook.monash.edu/2023/units/ETC3400?year=2023)

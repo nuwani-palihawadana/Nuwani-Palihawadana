@@ -25,7 +25,7 @@ github.com/nuwani-palihawadana
 -   Scholarships:
     -   Co-funded Monash Graduate Scholarship
     -   Monash Business School Co-funded Graduate Research Scholarship
--   Expected submission date: March 2025
+-   Submitted: June 2025
 
 **Bachelor of Science (Honours) -- Industrial Statistics**<br> *University of Colombo, Sri Lanka* [*Feb 2016 --- Dec 2018*]{.cvdate}
 
@@ -83,8 +83,9 @@ github.com/nuwani-palihawadana
 
 ### Teaching Associate
 
-**Monash University, Australia** [2022 -- 2023]{.cvdate}
+**Monash University, Australia** [2022 -- Present]{.cvdate}
 
+-   *ETC3550/ETC5550 Applied Forecasting* -- Conducted tutorial sessions
 -   *ETC3400 Principles of Econometrics* -- Conducted tutorial sessions
 
 
