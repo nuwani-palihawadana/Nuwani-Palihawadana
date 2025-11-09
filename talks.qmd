@@ -4,6 +4,16 @@ about:
   template: solana
 ---
 
+# 2025
+
+## **Uncertainty Estimation for High-dimensional Nonparametric Forecasting**
+
+**Date:** July 01, 2025
+
+**Event:** [45th International Symposium on Forecasting, Beijing, China](https://forecasters.org/events/symposium-on-forecasting/)
+
+[Slides](https://github.com/nuwani-palihawadana/ISF2025-pi-talk)
+
 # 2024
 
 ## **Optimal Predictor Selection for High-dimensional Nonparametric Forecasting**

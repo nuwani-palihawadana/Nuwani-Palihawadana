@@ -19,114 +19,141 @@ github.com/nuwani-palihawadana
 
 ## EDUCATION
 
-**Doctor of Philosophy -- Statistics** <br> *Monash University, Australia* [*March 2021 --- Present*]{.cvdate}
+**Doctor of Philosophy -- Mathematics and Statistics** <br> *Monash University, Australia* [*Mar. 2021 --- Present*]{.cvdate}
 
--   Project: *Optimal Predictor Selection for High-dimensional Nonparametric Forecasting*
--   Scholarships:
-    -   Co-funded Monash Graduate Scholarship
-    -   Monash Business School Co-funded Graduate Research Scholarship
--   Submitted: June 2025
+-   Thesis: Optimal Predictor Selection for High-dimensional Nonparametric Forecasting
+-   Status: Examination successfully completed; awaiting formal conferral of degree.
 
-**Bachelor of Science (Honours) -- Industrial Statistics**<br> *University of Colombo, Sri Lanka* [*Feb 2016 --- Dec 2018*]{.cvdate}
+**Bachelor of Science (Honours) -- Industrial Statistics** <br> *University of Colombo, Sri Lanka* [*Feb. 2016 --- Feb. 2019*]{.cvdate}
 
 -   Graduated with First Class Honours (GPA – 3.95/4.00 (Batch Top))
--   Research: *Generalising Vector Autoregressive (VAR) Model for Functional Time Series*
-    -   Mathematically extending classical VAR model for Functional Time Series, by developing the statistical theory of Functional Vector Autoregressive (FVAR) Model of order one
-    -   Demonstrating the practical application of the newly extended model using a real data set
+-   Thesis: Generalising Vector Autoregressive (VAR) Model for Functional Time Series
 
-**Chartered Institute of Management Accountants (CIMA), UK - Exam completed student** [*2017*]{.cvdate}
+**CIMA Exam Completed Student** <br> *Chartered Institute of Management Accountants (CIMA), United Kingdom* [*Oct. 2013 --- Aug. 2017*]{.cvdate}
 
-**General Certificate of Education - Advanced Level** <br> *St.Paul's Girls' School, Milagiriya, Sri Lanka* [*2011 --- 2013*]{.cvdate}
+**General Certificate of Education - Advanced Level** <br> *St.Paul's Girls' School, Milagiriya, Colombo 05, Sri Lanka* [*Jun. 2011 --- Aug. 2013*]{.cvdate}
 
 -   University Entrance Score (z-score): 1.65
 
 
-## AWARDS
+## EXPERIENCE
 
-**Monash University, Australia** [2021]{.cvdate}
+**Teaching Associate** <br> *Department of Econometrics and Business Statistics, Monash University, Australia* [*Jun. 2022 -- Present*]{.cvdate}
 
--   Monash Business School Student Excellence Award for BEX6510 Foundations of Econometrics
+-   ETC3550/ETC5550 Applied Forecasting (Undergraduate and postgraduate levels)
+-   ETC2410/ETC5241/BEX2410 Introductory Econometrics (Undergraduate and postgraduate levels)
+-   ETX2250/ETF5922 Data Visualisation and Analytics (Undergraduate and postgraduate levels)
+-   ETC3400/ETC5340 Principles of Econometrics (Undergraduate and postgraduate levels)
 
-**Sri Lanka Association for the Advancement of Science (SLAAS)** [2019]{.cvdate}
+**Research Assistant** <br> *Department of Econometrics and Business Statistics, Monash University, Australia* [*Jun. 2022 -- Mar. 2025*]{.cvdate}
 
--   Physical Science Award – Statistics
+-   Data pre-processing and wrangling, report editing
+-   Supervisors: Professor Bonsoo Koo, Professor Rob J. Hyndman
 
-**University of Colombo, Sri Lanka** [2018]{.cvdate}
+**Temporary Assistant Lecturer** <br> *Department of Statistics, University of Colombo, Sri Lanka* [*Feb. 2019 -- Feb. 2021*]{.cvdate}
 
--   CR and Bhargavi Rao Gold Medal for Statistics
--   Gold Medal for Industrial Statistics
--   Gold Medal for the Best Final Year Research Project in Industrial Statistics
--   Joseph Nalliah Arumugam Memorial Award
+-   MS 3009 Operational Research II -- Conducted lectures, set exam paper
+-   ST 2007 Applications in Statistical Inference -- Conducted lectures, set assignments
+-   IS 1006 Fundamentals in Statistics -- Conducted practical sessions
+-   SCS 2211 Laboratory II: Statistical Methods using R -- Conducted lectures
+-   ST 1012 Basic Statistical Computing -- Conducted practical sessions
+-   IS 3053 Data Mining -- Teaching assistant
+-   ST 2008 Statistical Methods in Quality Control -- Conducted lectures, set exam paper
+-   MS 2001 Statistical Quality Control -- Conducted lectures, set exam paper
 
-**St.Paul's Girls' School, Milagiriya, Sri Lanka** [2013]{.cvdate}
+**Intern - Analyst** <br> *MAS Pixel of MAS Capital (Pvt) Ltd., MAS Holdings, Sri Lanka* [*Aug. 2018 -- Feb. 2019*]{.cvdate}
 
--   Award for the Best All Rounder
+-   Data mapping and collection
+-   Data wrangling
+-   Business insight generation through data visualisation
+-   Predictive modelling
 
 
-## PUBLICATIONS
+## RESEARCH
 
-### Unpublished Working Papers
+**PhD Thesis: Optimal Predictor Selection for High-dimensional Nonparametric Forecasting**
+
+***Summary:***
+This thesis investigates nonparametric additive index models as a forecasting framework, with a focus on automating predictor selection, predictor grouping, and model estimation---thereby reducing reliance on prior knowledge or domain expertise. To this end, it proposes the Sparse Multiple Index (SMI) Modelling algorithm, which estimates such models through an L0- and L2-regularised non-linear least squares optimisation problem with linear constraints, solved via mixed-integer programming. The algorithm simultaneously performs predictor selection and grouping with minimal user input. Empirical applications to forecasting heat exposure-related daily mortality and daily solar intensity demonstrate the method’s competitive forecasting performance. The thesis further investigates methods for generating prediction intervals to quantify forecast uncertainty in nonparametric additive models. It evaluates the standard block bootstrap approach and three established conformal prediction methods. In addition, it proposes a novel method---Conformal Bootstrap (CB)---which integrates block bootstrap resampling and split conformal prediction into a unified procedure for constructing prediction intervals. Finally, the thesis presents an open-source R package, smimodel, to facilitate the practical application of the proposed methodologies.
+
+**Undergraduate Thesis: Generalising Vector Autoregressive (VAR) Model for Functional Time Series**
+
+***Summary:***
+This study generalises the Vector Autoregressive (VAR) model---a widely used multivariate time series model in classical time series analysis---to the context of functional time series. For theoretical simplicity, it introduces the Functional Vector Autoregressive model of order one (FVAR(1)), focusing on two functional time series, as higher-order FVAR models can be readily converted to an FVAR(1) form. The proposed model naturally extends the univariate Functional Autoregressive model of order one (FAR(1)), since FVAR(1) can be expressed in an equivalent FAR(1) form. Under the assumption of stationary time series and another key assumption, the model is shown to have a unique, stationary and convergent solution. The practical application of the FVAR(1) model is demonstrated using daily temperature data for Colombo from 2007 to 2012, obtained from the Department of Meteorology, Sri Lanka.
+
+
+## WORKING PAPERS
 
 -   Palihawadana, NK, RJ Hyndman, and X Wang (2024). Sparse Multiple Index Models for High-dimensional Nonparametric Forecasting. Working paper 16/24. Department of Econometrics & Business Statistics, Monash University. https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp16-2024.pdf.
 
 
-## SOFTWARE (R PACKAGES)
+## SOFTWARE
 
--   Palihawadana, N, and X Wang (2024). smimodel: Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting. Version 0.0.1. https://github.com/nuwani-palihawadana/smimodel.
+-   Palihawadana, N, and X Wang (2025). smimodel: Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting. Version 0.0.1. https://github.com/nuwani-palihawadana/smimodel.
 
 -   Hyndman, RJ, G Athanasopoulos, M O’Hara-Wild, N Palihawadana, S Wickramasuriya, and RStudio (2024). fpp3: Data for "Forecasting: Principles and Practice" (3rd Edition). Version 1.0.0. https://pkg.robjhyndman.com/fpp3package/.
 
 -   Zhang H, X Wang, N Palihawadana, and J Lakshika (2023). olympics: Olympic data from olympic.com. Version 0.0.1. https://numbats.github.io/olympics/index.html.
 
 
-## TEACHING EXPERIENCE
+## CONFERENCES AND TALKS
 
-### Teaching Associate
+**Uncertainty Estimation for High-dimensional Nonparametric Forecasting** <br> *45th International Symposium on Forecasting, Beijing, China* [*Jul. 2025*]{.cvdate}
 
-**Monash University, Australia** [2022 -- Present]{.cvdate}
+**Optimal Predictor Selection for High-dimensional Nonparametric Forecasting** <br> *Monash NUMBATs Seminar, Melbourne, Australia* [*Sep. 2024*]{.cvdate}
 
--   *ETC3550/ETC5550 Applied Forecasting* -- Conducted tutorial sessions
--   *ETC3400 Principles of Econometrics* -- Conducted tutorial sessions
+**Sparse Multiple Index (SMI) Models for High-dimensional Nonparametric Forecasting** <br> *44th International Symposium on Forecasting, Dijon, France* [*Jul. 2024*]{.cvdate}
 
+**Better Forecasts through Better Choices: Optimal Predictor Selection for High-dimensional Nonparametric Forecasting** <br> *Monash Business School Three Minute Thesis (3MT) Heat, Melbourne, Australia* [*Jun. 2024*]{.cvdate}
 
-### Temporary Assistant Lecturer
-
-**Department of Statistics, Faculty of Science, University of Colombo, Sri Lanka** [Feb 2019 -- Feb 2021]{.cvdate}
-
--   *MS 3009 Operational Research II* -- Conducted lectures, set exam paper
--   ST 2007 Applications in Statistical Inference -- Conducted lectures, set assignments
--   *IS 1006 Fundamentals in Statistics* -- Conducted practical sessions
--   *SCS 2211 Laboratory II (Statistical Methods using R)* -- Conducted lectures
--   *ST 1012 Basic Statistical Computing* -- Conducted practical sessions
--   *IS 3053 Data Mining* -- Teaching Assistant
--   *ST 2008 Statistical Methods in Quality Control* -- Conducted lectures, set exam paper
--   *MS 2001 Statistical Quality Control* -- Conducted lectures, set exam paper
+-   Runner‑up (Also competed as a Wildcard in the 2024 Monash University 3MT Competition)
 
 
-## OTHER WORK EXPERIENCE
+## AWARDS, GRANTS, AND SCHOLARSHIPS
 
-### Research Assistant
+**Co-funded Monash Graduate Scholarship** <br> *Monash University, Australia* [*2022 -- 2025*]{.cvdate}
 
-**Department of Econometrics and Business Statistics, Monash University, Australia** [June 2022 -- Present]{.cvdate}
+**Monash Business School Co‑funded Graduate Research Scholarship** <br> *Monash University, Australia* [*2022 -- 2025*]{.cvdate}
 
-Data pre-processing and wrangling, report editing.\
-Supervisors: Associate Professor Bonsoo Koo, Professor Rob J. Hyndman
+**International Symposium on Forecasting Travel Grant** <br> *International Institute of Forecasters, USA* [*2024*]{.cvdate}
 
+**Monash Graduate Research Travel Grant** <br> *Monash University, Australia* [*2024*]{.cvdate}
 
-### Intern – Analyst
+**Monash Business School Student Excellence Award** <br> *Monash University, Australia* [*2021*]{.cvdate}
 
-**MAS Pixel of MAS Capital (Pvt) Ltd., MAS Holdings, Sri Lanka** [Aug 2018 -- Feb 2019]{.cvdate}
+-   In recognition of exceptional academic excellence in BEX6510 Foundations of Econometrics
 
-Data mapping, data collection, data wrangling, business insight generation through data visualisation, predictive modelling.
+**Physical Science Award - Statistics** <br> *Sri Lanka Association for the Advancement of Science (SLAAS)* [*2019*]{.cvdate}
+
+-   Awarded for the best undergraduate research project in Statistics completed as part of a B.Sc. degree at a Sri Lankan university
+
+**C. R. and Bhargavi Rao Gold Medal for Statistics** <br> *University of Colombo, Sri Lanka* [*2018*]{.cvdate}
+
+-   Established by Professor C. R. Rao
+-   Awarded to the top First Class Honours graduate from the Department of Statistics who meets a special criterion
+
+**Gold Medal for Industrial Statistics** <br> *University of Colombo, Sri Lanka* [*2018*]{.cvdate}
+
+-   Awarded for achieving the highest GPA in the Industrial Statistics Honours degree programme
+
+**Gold Medal for the Best Final Year Research Project in Industrial Statistics** <br> *University of Colombo, Sri Lanka* [*2018*]{.cvdate}
+
+-   Awarded for achieving the highest mark in the final year research project in the Industrial Statistics Honours degree programme
+
+**Joseph Nalliah Arumugam Memorial Award** <br> *University of Colombo, Sri Lanka* [*2018*]{.cvdate}
+
+-   Awarded to the student demonstrating the highest competence in the final examination of the Faculty of Science
+
+**Award for the Best All Rounder** <br> *St.Paul's Girls' School, Milagiriya, Colombo 05, Sri Lanka* [*2013*]{.cvdate}
 
 
 ## LEADERSHIP AND COMMUNITY OUTREACH
 
--   Vice-captain of the Table Tennis (Women’s) Team, University of Colombo, Sri Lanka [2018]{.cvdate}
+**Vice-captain -- Table Tennis (Women’s) Team** <br> *University of Colombo, Sri Lanka* [*2018*]{.cvdate}
 
--   Assistant Secretary, Students’ Association for Industrial and Financial Analysis (SAIFA), University of Colombo, Sri Lanka [2016]{.cvdate}
+**Assistant Secretary -- Students’ Association for Industrial and Financial Analysis (SAIFA)** <br> *University of Colombo, Sri Lanka* [*2016*]{.cvdate}
 
--   Head Prefect, St. Paul’s Girls’ School, Milagiriya, Colombo 05, Sri Lanka [2012]{.cvdate}
+**Head Prefect** <br> *St.Paul's Girls' School, Milagiriya, Colombo 05, Sri Lanka* [*2012*]{.cvdate}
 
 
 ::: print-only

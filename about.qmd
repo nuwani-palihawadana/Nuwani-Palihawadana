@@ -7,7 +7,7 @@ about:
   image-shape: round
 ---
 
-I am a Ph.D. candidate in the [Department of Econometrics and Business Statistics, Monash University, Australia](https://www.monash.edu/business/research/our-researchers/graduate-research-students-and-supervisors?queries_degree_query=Econometrics+and+Business+Statistics&queries_degree_query_posted=1&result_1619149_result_page=3), supervised by [Prof. Rob J. Hyndman](https://robjhyndman.com/), [Dr Xiaoqian Wang](https://xqnwang.rbind.io/), and [Prof. Louise M. Ryan](https://profiles.uts.edu.au/Louise.M.Ryan). I am currently working on a project titled *"Optimal Predictor Selection for High-dimensional Nonparametric Forecasting"*.
+I am a Ph.D. candidate in the [Department of Econometrics and Business Statistics, Monash University, Australia](https://www.monash.edu/business/research/our-researchers/graduate-research-students-and-supervisors?queries_degree_query=Econometrics+and+Business+Statistics&queries_degree_query_posted=1&result_1619149_result_page=3), supervised by [Prof. Rob J. Hyndman](https://robjhyndman.com/), [Dr Xiaoqian Wang](https://xqnwang.rbind.io/), and [Prof. Louise M. Ryan](https://profiles.uts.edu.au/Louise.M.Ryan). My PhD thesis is titled *"Optimal Predictor Selection for High-dimensional Nonparametric Forecasting"*.
 
 I am part of [Monash NUMBATs](https://numbat.space/people/current/palihawadana-nuwani/), and a research student at [OPTIMA](https://optima.org.au/staff/nuwani-palihawadana/) and [ACEMS](https://acems.org.au/our-people/nuwani-palihawadana).
 
@@ -19,7 +19,7 @@ My research focuses on Statistical Forecasting, Classical and Functional Time Se
 
 -   Monash Business School Student Excellence Award for [BEX6510 Foundations of Econometrics](https://handbook.monash.edu/2021/units/BEX6510), 2021
 
-🎓 B.Sc. (Hons) in Industrial Statistics, 2018, University of Colombo, Sri Lanka
+🎓 B.Sc. (Hons) in Industrial Statistics, 2019, University of Colombo, Sri Lanka
 
 -   Batch top and Gold Medalist
     -   CR and Bhargavi Rao Gold Medal for Statistics
@@ -43,7 +43,7 @@ My research focuses on Statistical Forecasting, Classical and Functional Time Se
 
 ## 📧 Contact Information
 
-::: {.grid style="row-gap: 1em;"}
+:::: {.grid style="row-gap: 1em;"}
 ::: {.g-col-12 .g-col-md-10}
 <p class="mb-0">
 
@@ -53,8 +53,8 @@ Clayton VIC 3800,\
 Australia.
 
 \
-Email: nuwani.kodikarapalihawadana\@monash.edu
+Email: nuwani.kodikarapalihawadana1\@monash.edu
 
 </p>
 :::
-:::
+::::
