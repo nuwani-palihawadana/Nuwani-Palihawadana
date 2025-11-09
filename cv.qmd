@@ -12,7 +12,7 @@ format-links: [pdf]
 
 ::: {.print-only .contact-block}
 nuwanipalihawadana.netlify.app\
-nuwani.kodikarapalihawadana\@monash.edu\
+nuwani.kodikarapalihawadana1\@monash.edu\
 in/nuwani-palihawadana\
 github.com/nuwani-palihawadana
 :::
@@ -22,7 +22,7 @@ github.com/nuwani-palihawadana
 **Doctor of Philosophy -- Mathematics and Statistics** <br> *Monash University, Australia* [*Mar. 2021 --- Present*]{.cvdate}
 
 -   Thesis: Optimal Predictor Selection for High-dimensional Nonparametric Forecasting
--   Status: Examination successfully completed; awaiting formal conferral of degree.
+-   Status: Examination successfully completed; awaiting formal conferral of the degree
 
 **Bachelor of Science (Honours) -- Industrial Statistics** <br> *University of Colombo, Sri Lanka* [*Feb. 2016 --- Feb. 2019*]{.cvdate}
 
